@@ -23,7 +23,7 @@
         <dependency>
             <groupId>br.com.salute</groupId>
             <artifactId>iconnector</artifactId>
-            <version>1.0.1</version>
+            <version>1.1.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
